@@ -11,4 +11,5 @@ package Classes;
  */
 public class New {
     int i = 10;
+    int x = 22;
 }
