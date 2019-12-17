@@ -10,5 +10,5 @@ package Classes;
  * @author nipun
  */
 public class New {
-    
+    int i = 10;
 }
